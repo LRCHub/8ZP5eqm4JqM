@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ビビデバ",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-03-19T12:13:39.385387Z",
+  "createdAt": "2026-03-21T17:12:59.217634Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,7 +99,7 @@
       "artist": "星街すいせい",
       "has_synced": true,
       "path": "select/localdb_01_ビビデバ_星街すいせい.lrc",
-      "repo_name": "DeVmkXryUB4"
+      "repo_name": "8ZP5eqm4JqM"
     },
     {
       "id": "localdb_2",
@@ -108,7 +108,7 @@
       "artist": "星街すいせい",
       "has_synced": true,
       "path": "select/localdb_02_ビビデバ_星街すいせい.lrc",
-      "repo_name": "8ZP5eqm4JqM"
+      "repo_name": "DeVmkXryUB4"
     },
     {
       "id": "localdb_3",
